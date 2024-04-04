@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lottery.Application/1.0.0": {
+        "dependencies": {
+          "lottery.Domain": "1.0.0"
+        },
+        "runtime": {
+          "lottery.Application.dll": {}
+        }
+      },
+      "lottery.Domain/1.0.0": {
+        "runtime": {
+          "lottery.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lottery.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lottery.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

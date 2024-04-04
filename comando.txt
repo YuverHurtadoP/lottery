@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=(local); Database=lottery; Integrated Security=true; Encrypt=false;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

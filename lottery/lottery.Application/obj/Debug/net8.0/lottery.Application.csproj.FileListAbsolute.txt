@@ -1,0 +1,16 @@
+D:\onOff\lottery\lottery.Application\bin\Debug\net8.0\lottery.Application.deps.json
+D:\onOff\lottery\lottery.Application\bin\Debug\net8.0\lottery.Application.dll
+D:\onOff\lottery\lottery.Application\bin\Debug\net8.0\lottery.Application.pdb
+D:\onOff\lottery\lottery.Application\bin\Debug\net8.0\lottery.Domain.dll
+D:\onOff\lottery\lottery.Application\bin\Debug\net8.0\lottery.Domain.pdb
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery.Application.csproj.AssemblyReference.cache
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery.Application.AssemblyInfoInputs.cache
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery.Application.AssemblyInfo.cs
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery.Application.csproj.CoreCompileInputs.cache
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery.Application.sourcelink.json
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery..132B45AE.Up2Date
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery.Application.dll
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\refint\lottery.Application.dll
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\lottery.Application.pdb
+D:\onOff\lottery\lottery.Application\obj\Debug\net8.0\ref\lottery.Application.dll

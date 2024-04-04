@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\onOff\\lottery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|d:\\onoff\\lottery\\lottery\\persistence\\productreposityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|solutionrelative:lottery\\persistence\\productreposityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|d:\\onoff\\lottery\\lottery.application\\lotteryusecaseimpl\\lotteryticketusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|solutionrelative:lottery.application\\lotteryusecaseimpl\\lotteryticketusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|d:\\onoff\\lottery\\lottery\\persistence\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|solutionrelative:lottery\\persistence\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|d:\\onoff\\lottery\\lottery.domain\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|solutionrelative:lottery.domain\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|d:\\onoff\\lottery\\lottery.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|solutionrelative:lottery.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|d:\\onoff\\lottery\\lottery.application\\interfacelotteryusecase\\ilotteryticketusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|solutionrelative:lottery.application\\interfacelotteryusecase\\ilotteryticketusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|d:\\onoff\\lottery\\lottery.application\\lotteryusecaseimpl\\lotteryproductusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|solutionrelative:lottery.application\\lotteryusecaseimpl\\lotteryproductusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|d:\\onoff\\lottery\\lottery\\controllers\\loterrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|solutionrelative:lottery\\controllers\\loterrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|d:\\onoff\\lottery\\lottery\\ioc\\dependence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|solutionrelative:lottery\\ioc\\dependence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|d:\\onoff\\lottery\\lottery.application\\interfacelotteryusecase\\ilotteryproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|solutionrelative:lottery.application\\interfacelotteryusecase\\ilotteryproductusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|d:\\onoff\\lottery\\lottery.domain\\repository\\iproductreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|solutionrelative:lottery.domain\\repository\\iproductreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|d:\\onoff\\lottery\\lottery.application\\mapper\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|solutionrelative:lottery.application\\mapper\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|d:\\onoff\\lottery\\lottery.domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|solutionrelative:lottery.domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|d:\\onoff\\lottery\\lottery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|solutionrelative:lottery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|d:\\onoff\\lottery\\lottery\\dbcontext\\lotterycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|solutionrelative:lottery\\dbcontext\\lotterycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|d:\\onoff\\lottery\\lottery\\lottery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|solutionrelative:lottery\\lottery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|d:\\onoff\\lottery\\lottery.application\\lottery.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|solutionrelative:lottery.application\\lottery.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|d:\\onoff\\lottery\\lottery.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|solutionrelative:lottery.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|d:\\onoff\\lottery\\lottery.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B577CB7-B5F5-4F2B-9886-968B71BCFD32}|lottery.Application\\lottery.Application.csproj|solutionrelative:lottery.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|d:\\onoff\\lottery\\lottery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C307D045-50CF-445F-9102-B891C7CA300B}|lottery\\lottery.csproj|solutionrelative:lottery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|d:\\onoff\\lottery\\lottery.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|solutionrelative:lottery.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|d:\\onoff\\lottery\\lottery.domain\\lottery.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0002F0EA-5167-49F4-A16F-E52C01622BB8}|lottery.Domain\\lottery.Domain.csproj|solutionrelative:lottery.domain\\lottery.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LotteryTicketUseCase.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Application\\LotteryUseCaseImpl\\LotteryTicketUseCase.cs",
+              "RelativeDocumentMoniker": "lottery.Application\\LotteryUseCaseImpl\\LotteryTicketUseCase.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Application\\LotteryUseCaseImpl\\LotteryTicketUseCase.cs",
+              "RelativeToolTip": "lottery.Application\\LotteryUseCaseImpl\\LotteryTicketUseCase.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:00:57.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery\\Persistence\\GenericRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "lottery\\Persistence\\GenericRepositoryImpl.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery\\Persistence\\GenericRepositoryImpl.cs",
+              "RelativeToolTip": "lottery\\Persistence\\GenericRepositoryImpl.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:31:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LotteryProductUseCaseImpl.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Application\\LotteryUseCaseImpl\\LotteryProductUseCaseImpl.cs",
+              "RelativeDocumentMoniker": "lottery.Application\\LotteryUseCaseImpl\\LotteryProductUseCaseImpl.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Application\\LotteryUseCaseImpl\\LotteryProductUseCaseImpl.cs",
+              "RelativeToolTip": "lottery.Application\\LotteryUseCaseImpl\\LotteryProductUseCaseImpl.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:21:21.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "lottery.Domain\\Models\\Product.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "lottery.Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:14:04.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductReposityImpl.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery\\Persistence\\ProductReposityImpl.cs",
+              "RelativeDocumentMoniker": "lottery\\Persistence\\ProductReposityImpl.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery\\Persistence\\ProductReposityImpl.cs",
+              "RelativeToolTip": "lottery\\Persistence\\ProductReposityImpl.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:46:55.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Domain\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "lottery.Domain\\Repository\\IGenericRepository.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Domain\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "lottery.Domain\\Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:53:15.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoterryController.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery\\Controllers\\LoterryController.cs",
+              "RelativeDocumentMoniker": "lottery\\Controllers\\LoterryController.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery\\Controllers\\LoterryController.cs",
+              "RelativeToolTip": "lottery\\Controllers\\LoterryController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAADEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:25:24.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILotteryTicketUseCase.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Application\\InterfaceLotteryUseCase\\ILotteryTicketUseCase.cs",
+              "RelativeDocumentMoniker": "lottery.Application\\InterfaceLotteryUseCase\\ILotteryTicketUseCase.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Application\\InterfaceLotteryUseCase\\ILotteryTicketUseCase.cs",
+              "RelativeToolTip": "lottery.Application\\InterfaceLotteryUseCase\\ILotteryTicketUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:19:47.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dependence.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery\\IOC\\Dependence.cs",
+              "RelativeDocumentMoniker": "lottery\\IOC\\Dependence.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery\\IOC\\Dependence.cs",
+              "RelativeToolTip": "lottery\\IOC\\Dependence.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:57:11.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILotteryProductUseCase.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Application\\InterfaceLotteryUseCase\\ILotteryProductUseCase.cs",
+              "RelativeDocumentMoniker": "lottery.Application\\InterfaceLotteryUseCase\\ILotteryProductUseCase.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Application\\InterfaceLotteryUseCase\\ILotteryProductUseCase.cs",
+              "RelativeToolTip": "lottery.Application\\InterfaceLotteryUseCase\\ILotteryProductUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:07:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductReposity.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Domain\\Repository\\IProductReposity.cs",
+              "RelativeDocumentMoniker": "lottery.Domain\\Repository\\IProductReposity.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Domain\\Repository\\IProductReposity.cs",
+              "RelativeToolTip": "lottery.Domain\\Repository\\IProductReposity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:43:30.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Domain\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "lottery.Domain\\Models\\Ticket.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Domain\\Models\\Ticket.cs",
+              "RelativeToolTip": "lottery.Domain\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:47:56.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Application\\Mapper\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "lottery.Application\\Mapper\\ProductMapper.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Application\\Mapper\\ProductMapper.cs",
+              "RelativeToolTip": "lottery.Application\\Mapper\\ProductMapper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:05:06.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery\\appsettings.json",
+              "RelativeDocumentMoniker": "lottery\\appsettings.json",
+              "ToolTip": "D:\\onOff\\lottery\\lottery\\appsettings.json",
+              "RelativeToolTip": "lottery\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T23:58:51.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LotteryContext.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery\\DBContext\\LotteryContext.cs",
+              "RelativeDocumentMoniker": "lottery\\DBContext\\LotteryContext.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery\\DBContext\\LotteryContext.cs",
+              "RelativeToolTip": "lottery\\DBContext\\LotteryContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:48:01.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "lottery.csproj",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery\\lottery.csproj",
+              "RelativeDocumentMoniker": "lottery\\lottery.csproj",
+              "ToolTip": "D:\\onOff\\lottery\\lottery\\lottery.csproj",
+              "RelativeToolTip": "lottery\\lottery.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T23:38:53.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Application\\DTOS\\ProductDto.cs",
+              "RelativeDocumentMoniker": "lottery.Application\\DTOS\\ProductDto.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Application\\DTOS\\ProductDto.cs",
+              "RelativeToolTip": "lottery.Application\\DTOS\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:13:49.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lottery.Application.csproj",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Application\\lottery.Application.csproj",
+              "RelativeDocumentMoniker": "lottery.Application\\lottery.Application.csproj",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Application\\lottery.Application.csproj",
+              "RelativeToolTip": "lottery.Application\\lottery.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T00:06:52.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "lottery.Application\\Class1.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Application\\Class1.cs",
+              "RelativeToolTip": "lottery.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:03:27.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery\\Program.cs",
+              "RelativeDocumentMoniker": "lottery\\Program.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery\\Program.cs",
+              "RelativeToolTip": "lottery\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:01:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "lottery.Domain.csproj",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Domain\\lottery.Domain.csproj",
+              "RelativeDocumentMoniker": "lottery.Domain\\lottery.Domain.csproj",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Domain\\lottery.Domain.csproj",
+              "RelativeToolTip": "lottery.Domain\\lottery.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T23:52:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\onOff\\lottery\\lottery.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "lottery.Domain\\Class1.cs",
+              "ToolTip": "D:\\onOff\\lottery\\lottery.Domain\\Class1.cs",
+              "RelativeToolTip": "lottery.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:45:19.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

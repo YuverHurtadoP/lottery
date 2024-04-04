@@ -1,0 +1,16 @@
+create database lottery;
+
+USE lottery;
+GO
+CREATE TABLE Product (
+    ProductId INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL,
+Price DECIMAL(10, 2) NOT NULL 
+);
+CREATE TABLE Ticket (
+    TicketId INT PRIMARY KEY IDENTITY,
+    ProductId INT NOT NULL,
+    Number INT NOT NULL,
+    FOREIGN KEY (ProductId) REFERENCES Product(ProductId)
+
+);

@@ -1,0 +1,12 @@
+D:\onOff\lottery\lottery.Domain\bin\Debug\net8.0\lottery.Domain.deps.json
+D:\onOff\lottery\lottery.Domain\bin\Debug\net8.0\lottery.Domain.dll
+D:\onOff\lottery\lottery.Domain\bin\Debug\net8.0\lottery.Domain.pdb
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\lottery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\lottery.Domain.AssemblyInfoInputs.cache
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\lottery.Domain.AssemblyInfo.cs
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\lottery.Domain.csproj.CoreCompileInputs.cache
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\lottery.Domain.sourcelink.json
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\lottery.Domain.dll
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\refint\lottery.Domain.dll
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\lottery.Domain.pdb
+D:\onOff\lottery\lottery.Domain\obj\Debug\net8.0\ref\lottery.Domain.dll
